@@ -30,7 +30,7 @@ class InheritedInformation : Information {
 	}
 }
 
-// Driver class
+// Main callinf class
 class Inheritance {
 
 	// Main Method
@@ -38,11 +38,11 @@ class Inheritance {
 	{
 
 		// creating object of derived class
-		InheritedInformation g = new InheritedInformation();
+		InheritedInformation inheritedInformation = new InheritedInformation();
 
 		// calling the method of base class
 		// using the derived class object
-		g.readers("Abhinn", "Junior Software Developer");
+		inheritedInformation.readers("Abhinn", "Junior Software Developer");
 	}
 }
 }

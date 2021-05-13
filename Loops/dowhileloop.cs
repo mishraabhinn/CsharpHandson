@@ -7,8 +7,7 @@ class dowhileloop
 		int x = 21;
 		do
 		{
-			// The line will be printed even
-			// if the condition is false
+			
 			Console.WriteLine(x);
 			x++;
 		}

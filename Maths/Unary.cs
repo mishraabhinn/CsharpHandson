@@ -12,8 +12,7 @@ namespace CSharpHandsOnPractice.Maths {
 			int a = 9, res;
 
 			// post-increment example:
-			// res is assigned 10 only,
-			// a is not updated yet
+			
 			res = a++;
 			
 			//a becomes 11 now
@@ -21,7 +20,7 @@ namespace CSharpHandsOnPractice.Maths {
 		
 		
 			// post-decrement example:
-			// res is assigned 11 only, a is not updated yet
+			
 			res = a--;
 			
 			//a becomes 10 now
@@ -29,8 +28,7 @@ namespace CSharpHandsOnPractice.Maths {
 		
 		
 			// pre-increment example:
-			// res is assigned 11 now since a
-			// is updated here itself
+			
 			res = ++a;
 			
 			// a and res have same values = 11
@@ -38,8 +36,7 @@ namespace CSharpHandsOnPractice.Maths {
 		
 		
 			// pre-decrement example:
-			// res is assigned 10 only since
-			// a is updated here itself
+			
 			res = --a;
 			
 			// a and res have same values = 10
