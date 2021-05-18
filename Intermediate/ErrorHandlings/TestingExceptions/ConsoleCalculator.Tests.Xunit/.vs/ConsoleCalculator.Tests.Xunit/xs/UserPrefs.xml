@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{70B8E085-CA29-4053-BC8E-1BFB8509C585}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleCalculator.Tests.Xunit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorShould.cs">
+    <Files>
+      <File FileName="CalculatorShould.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleCalculator.Tests.Xunit" expanded="True" selected="True">
+            <Node name="ConsoleCalculator.Tests.Xunit" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

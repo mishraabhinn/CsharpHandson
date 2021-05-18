@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A44A6720-0FE2-43C0-89E2-C680B4219259}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleCalculator/Program.cs">
+    <Files>
+      <File FileName="ConsoleCalculator/Program.cs" Line="19" Column="1" />
+      <File FileName="../../../../../../../Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/xbuild/Microsoft/NuGet/Microsoft.NuGet.targets" Line="186" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleCalculator" expanded="True">
+            <Node name="ConsoleCalculator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ConsoleCalculator.Tests.MSTest" expanded="True" />
+            <Node name="ConsoleCalculator.Tests.Nunit" expanded="True" />
+            <Node name="ConsoleCalculator.Tests.Xunit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleCalculator.Tests.MSTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
