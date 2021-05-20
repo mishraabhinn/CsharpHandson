@@ -15,7 +15,7 @@ namespace CSharpHandsOnPractice.Threading
         public static async void Method()
         {
             await Task.Run(new Action(LongTask));
-            Console.WriteLine("New Thread");
+            Console.WriteLine("New Thread"); //wait until the long task finishes. 
         }
         Public static void LongTask()
         {
