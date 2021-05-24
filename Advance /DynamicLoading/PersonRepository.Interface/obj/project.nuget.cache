@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7bqlTnplGdyq/MnxeQOopbBH1lPr5Pxmhz48TP7O3bqXTyssbmiqi9KI3hSk9Jd8Q83oiJElyI7o+qzZI7TwA==",
+  "success": true,
+  "projectFilePath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Interface/PersonRepository.Interface.csproj",
+  "expectedPackageFiles": [
+    "/Users/abhinnmishra/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/abhinnmishra/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

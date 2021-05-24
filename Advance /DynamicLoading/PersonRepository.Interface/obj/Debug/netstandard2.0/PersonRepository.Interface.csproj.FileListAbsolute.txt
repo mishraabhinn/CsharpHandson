@@ -1,0 +1,9 @@
+/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Interface/bin/Debug/netstandard2.0/PersonRepository.Interface.deps.json
+/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Interface/bin/Debug/netstandard2.0/PersonRepository.Interface.dll
+/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Interface/bin/Debug/netstandard2.0/PersonRepository.Interface.pdb
+/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.csprojAssemblyReference.cache
+/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.AssemblyInfoInputs.cache
+/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.AssemblyInfo.cs
+/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.csproj.CoreCompileInputs.cache
+/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.dll
+/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Interface/obj/Debug/netstandard2.0/PersonRepository.Interface.pdb

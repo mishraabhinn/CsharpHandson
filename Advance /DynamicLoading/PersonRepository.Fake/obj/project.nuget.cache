@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4TqamOpUWJPBYp5y8Ys4Ti8WyP9KVjiAXWT9V7P186nnFOSP3uvjKEaAlhNOeWT+DowxjiAANrpAjN2ZjomoFA==",
+  "success": true,
+  "projectFilePath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /DynamicLoading/PersonRepository.Fake/PersonRepository.Fake.csproj",
+  "expectedPackageFiles": [
+    "/Users/abhinnmishra/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/abhinnmishra/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

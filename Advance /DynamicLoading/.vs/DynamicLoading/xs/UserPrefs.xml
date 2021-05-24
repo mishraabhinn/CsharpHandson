@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{28740D0A-4372-401A-8EB7-D45862B64F66}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="People.Service/Program.cs">
+    <Files>
+      <File FileName="People.Service/Program.cs" Line="17" Column="1" />
+      <File FileName="PeopleViewer.Test/PeopleViewModelTest.cs" Line="12" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DynamicLoading" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="People.Service" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DynamicLoading" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Services.People.Service PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
