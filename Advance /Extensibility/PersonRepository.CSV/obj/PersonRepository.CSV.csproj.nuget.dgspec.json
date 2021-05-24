@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj": {}
+    "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj": {}
   },
   "projects": {
-    "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj": {
+    "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj",
+        "projectUniqueName": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj",
         "projectName": "PersonRepository.CSV",
-        "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj",
+        "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj",
         "packagesPath": "/Users/abhinnmishra/.nuget/packages/",
-        "outputPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/obj/",
+        "outputPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.CSV/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -29,8 +29,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
-                "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj"
+              "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
+                "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
+    "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
+        "projectUniqueName": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
         "projectName": "PersonRepository.Interface",
-        "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
+        "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
         "packagesPath": "/Users/abhinnmishra/.nuget/packages/",
-        "outputPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/obj/",
+        "outputPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj": {}
+    "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj": {}
   },
   "projects": {
-    "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
+    "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
+        "projectUniqueName": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
         "projectName": "PersonRepository.Interface",
-        "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
+        "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
         "packagesPath": "/Users/abhinnmishra/.nuget/packages/",
-        "outputPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/obj/",
+        "outputPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj": {
+    "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj",
+        "projectUniqueName": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj",
         "projectName": "PersonRepository.SQL",
-        "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj",
+        "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj",
         "packagesPath": "/Users/abhinnmishra/.nuget/packages/",
-        "outputPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/obj/",
+        "outputPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.SQL/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -87,8 +87,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
-                "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj"
+              "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
+                "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj"
               }
             }
           }

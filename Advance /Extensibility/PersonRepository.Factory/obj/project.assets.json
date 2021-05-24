@@ -3170,11 +3170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Factory/PersonRepository.Factory.csproj",
+      "projectUniqueName": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Factory/PersonRepository.Factory.csproj",
       "projectName": "PersonRepository.Factory",
-      "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Factory/PersonRepository.Factory.csproj",
+      "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Factory/PersonRepository.Factory.csproj",
       "packagesPath": "/Users/abhinnmishra/.nuget/packages/",
-      "outputPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Factory/obj/",
+      "outputPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Factory/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -3192,17 +3192,17 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj": {
-              "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj"
+            "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj": {
+              "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.CSV/PersonRepository.CSV.csproj"
             },
-            "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
-              "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj"
+            "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
+              "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj"
             },
-            "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/PersonRepository.Service.csproj": {
-              "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Service/PersonRepository.Service.csproj"
+            "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Service/PersonRepository.Service.csproj": {
+              "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.Service/PersonRepository.Service.csproj"
             },
-            "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj": {
-              "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj"
+            "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj": {
+              "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/Advance /Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj"
             }
           }
         }

@@ -1,10 +1,21 @@
 ﻿<Properties StartupConfiguration="{C6554F00-5431-4494-8CD0-63BD009147FC}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PeopleViewer/MainWindow.xaml.cs">
+    <Files>
+      <File FileName="PersonRepository.Service/ServiceRepository.cs" Line="1" Column="1" />
+      <File FileName="PeopleViewer/MainWindow.xaml.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Extensibility" expanded="True" selected="True">
-            <Node name="PeopleViewer" expanded="True" />
+          <Node name="Extensibility" expanded="True">
+            <Node name="Repositories" expanded="True">
+              <Node name="PersonRepository.Service" expanded="True" />
+            </Node>
+            <Node name="PeopleViewer" expanded="True">
+              <Node name="MainWindow.xaml" expanded="True">
+                <Node name="MainWindow.xaml.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
