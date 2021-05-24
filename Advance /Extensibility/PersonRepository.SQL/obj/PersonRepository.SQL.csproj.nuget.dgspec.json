@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj": {}
+  },
+  "projects": {
+    "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
+        "projectName": "PersonRepository.Interface",
+        "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
+        "packagesPath": "/Users/abhinnmishra/.nuget/packages/",
+        "outputPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/abhinnmishra/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj",
+        "projectName": "PersonRepository.SQL",
+        "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/PersonRepository.SQL.csproj",
+        "packagesPath": "/Users/abhinnmishra/.nuget/packages/",
+        "outputPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.SQL/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/abhinnmishra/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj": {
+                "projectPath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/03/demos/after/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

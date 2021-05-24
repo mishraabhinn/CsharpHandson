@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "82V75nDDTYmU7FUNKvhfPxNyfyBjBfFYyBzPImBu8w7Q0RvdRnTzj1bvIya+h3okiud0NqUOzfLlGw3Sfx6xXA==",
+  "success": true,
+  "projectFilePath": "/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons.Library/Polygons.Library.csproj",
+  "expectedPackageFiles": [
+    "/Users/abhinnmishra/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/abhinnmishra/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

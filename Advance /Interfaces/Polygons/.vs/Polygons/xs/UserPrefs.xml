@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FAB4A9F3-D698-45F9-AC7D-8055329B29F5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Polygons PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Polygons/Program.cs">
+    <Files>
+      <File FileName="Polygons/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Polygons" expanded="True">
+            <Node name="Polygons" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Polygons.Library" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

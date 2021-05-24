@@ -1,0 +1,9 @@
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons.Library/bin/Debug/netstandard2.0/Polygons.Library.deps.json
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons.Library/bin/Debug/netstandard2.0/Polygons.Library.dll
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons.Library/bin/Debug/netstandard2.0/Polygons.Library.pdb
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons.Library/obj/Debug/netstandard2.0/Polygons.Library.csprojAssemblyReference.cache
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons.Library/obj/Debug/netstandard2.0/Polygons.Library.AssemblyInfoInputs.cache
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons.Library/obj/Debug/netstandard2.0/Polygons.Library.AssemblyInfo.cs
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons.Library/obj/Debug/netstandard2.0/Polygons.Library.csproj.CoreCompileInputs.cache
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons.Library/obj/Debug/netstandard2.0/Polygons.Library.dll
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons.Library/obj/Debug/netstandard2.0/Polygons.Library.pdb

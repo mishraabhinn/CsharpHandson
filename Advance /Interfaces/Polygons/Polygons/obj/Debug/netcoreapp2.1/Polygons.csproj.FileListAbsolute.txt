@@ -1,0 +1,15 @@
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/bin/Debug/netcoreapp2.1/Polygons.deps.json
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/bin/Debug/netcoreapp2.1/Polygons.runtimeconfig.json
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/bin/Debug/netcoreapp2.1/Polygons.runtimeconfig.dev.json
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/bin/Debug/netcoreapp2.1/Polygons.dll
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/bin/Debug/netcoreapp2.1/Polygons.pdb
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/bin/Debug/netcoreapp2.1/Polygons.Library.dll
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/bin/Debug/netcoreapp2.1/Polygons.Library.pdb
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/obj/Debug/netcoreapp2.1/Polygons.csprojAssemblyReference.cache
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/obj/Debug/netcoreapp2.1/Polygons.AssemblyInfoInputs.cache
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/obj/Debug/netcoreapp2.1/Polygons.AssemblyInfo.cs
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/obj/Debug/netcoreapp2.1/Polygons.csproj.CoreCompileInputs.cache
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/obj/Debug/netcoreapp2.1/Polygons.csproj.CopyComplete
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/obj/Debug/netcoreapp2.1/Polygons.dll
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/obj/Debug/netcoreapp2.1/Polygons.pdb
+/Users/abhinnmishra/Downloads/using-csharp-interfaces/02/demos/after/Polygons/Polygons/obj/Debug/netcoreapp2.1/Polygons.genruntimeconfig.cache
