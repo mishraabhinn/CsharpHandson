@@ -39,7 +39,7 @@ namespace Machines
 			userinput = Console.ReadLine();
 
 
-			string filePath = @"/Users/abhinnmishra/Downloads/Assignment/Data.csv";
+			string filePath = @"/Users/abhinnmishra/Downloads/CsharpHandson/ProjectKlingelnberg/Assignment/Data.csv";
 			CsvReader reader = new CsvReader(filePath, userinput);
 
 			List<Structure> machines = reader.ReadAllMachines();
@@ -72,73 +72,38 @@ namespace Machines
 					Console.WriteLine(i);
 
 			}
+			
+				
+
 			else
 			{
-				List<NewStructure> solutionc = new List<NewStructure>();
-				foreach (Structure machine in machines)
-				{
-					string[] parts = machine.Series.Split('S');
 
-					int code = Convert.ToInt32(parts[1]);
-
-
-					solutionc.Add(new NewStructure(machine.MachineName, machine.Assetname, code));
-
-
-				}
-
-				solutionc = solutionc.OrderBy(x => -x.Series).ToList();
-
-
-				if (solutionc[0].Series != solutionc[1].Series)
-				{
-					Console.WriteLine(solutionc[0].MachineName);
-
-				}
-
-
-				else
-				{
-					List<string> finalAns = new List<string>();
-					List<AnsCStruncture> fullfinallatest = new List<AnsCStruncture>();
-
-					for (int i = 0; i < solutionc.Count - 1; i++)
+				List<Structure> result = new List<Structure>();
+				result.Add(machines[0]);
+				for (int i=1;i<machines.Count;i++)
+				{	
+					for(int j=0;j<result.Count;j++)
 					{
-						if (solutionc[i].Series == solutionc[i + 1].Series)
+						if(String.Compare(result[j].Assetname, machines[i].Assetname) == 0)
 						{
-							if (i == 0)
+							if(String.Compare(result[j].Series, machines[i].Series) < 0)
 							{
-								finalAns.Add(solutionc[i].MachineName);
-								finalAns.Add(solutionc[i + 1].MachineName);
+								result.RemoveAt(j);
+								result.Add(machines[i]);
+								break;
 							}
-							else
-							{
-								finalAns.Add(solutionc[i + 1].MachineName);
-							}
-						}
-						else
-						{
-							break;
+								
 						}
 					}
-					foreach (var i in finalAns)
-					{
-						int sum = 0;
-						foreach (var j in solutionc)
-						{
-							if (i == j.MachineName)
-							{
-								sum += j.Series;
-							}
-						}
-						fullfinallatest.Add(new AnsCStruncture(i, sum));
-
-					}
-					fullfinallatest = fullfinallatest.OrderBy(x => -x.LatesSeries).ToList();
-					Console.WriteLine(fullfinallatest[0].MachineName);
 				}
-
+				foreach(var itr in result)
+				{
+					Console.WriteLine(itr.MachineName);
+				}
 			}
+
+
+			
 
 		}
 	}

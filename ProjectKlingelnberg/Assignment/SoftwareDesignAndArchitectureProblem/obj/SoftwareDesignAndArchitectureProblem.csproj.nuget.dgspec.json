@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/abhinnmishra/Downloads/Assignment/SoftwareDesignAndArchitectureProblem/SoftwareDesignAndArchitectureProblem.csproj": {}
+    "/Users/abhinnmishra/Downloads/CsharpHandson/ProjectKlingelnberg/Assignment/SoftwareDesignAndArchitectureProblem/SoftwareDesignAndArchitectureProblem.csproj": {}
   },
   "projects": {
-    "/Users/abhinnmishra/Downloads/Assignment/SoftwareDesignAndArchitectureProblem/SoftwareDesignAndArchitectureProblem.csproj": {
+    "/Users/abhinnmishra/Downloads/CsharpHandson/ProjectKlingelnberg/Assignment/SoftwareDesignAndArchitectureProblem/SoftwareDesignAndArchitectureProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abhinnmishra/Downloads/Assignment/SoftwareDesignAndArchitectureProblem/SoftwareDesignAndArchitectureProblem.csproj",
+        "projectUniqueName": "/Users/abhinnmishra/Downloads/CsharpHandson/ProjectKlingelnberg/Assignment/SoftwareDesignAndArchitectureProblem/SoftwareDesignAndArchitectureProblem.csproj",
         "projectName": "SoftwareDesignAndArchitectureProblem",
-        "projectPath": "/Users/abhinnmishra/Downloads/Assignment/SoftwareDesignAndArchitectureProblem/SoftwareDesignAndArchitectureProblem.csproj",
+        "projectPath": "/Users/abhinnmishra/Downloads/CsharpHandson/ProjectKlingelnberg/Assignment/SoftwareDesignAndArchitectureProblem/SoftwareDesignAndArchitectureProblem.csproj",
         "packagesPath": "/Users/abhinnmishra/.nuget/packages/",
-        "outputPath": "/Users/abhinnmishra/Downloads/Assignment/SoftwareDesignAndArchitectureProblem/obj/",
+        "outputPath": "/Users/abhinnmishra/Downloads/CsharpHandson/ProjectKlingelnberg/Assignment/SoftwareDesignAndArchitectureProblem/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
