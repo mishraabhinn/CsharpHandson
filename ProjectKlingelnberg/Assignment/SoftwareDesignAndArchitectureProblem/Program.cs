@@ -18,25 +18,27 @@ namespace Machines
 
 
 			char userinputoption = Console.ReadLine()[0];
-			string userinput;
+			string userinput="empty";
 
 			if (userinputoption == 'a')
 			{
-				Console.WriteLine("Enter The Machine Code");
+				Console.WriteLine("Enter The Machine Code:");
+				userinput = Console.ReadLine();
 			}
 
 
 
 			else if (userinputoption == 'b')
 			{
-				Console.WriteLine("Enter The AssetName");
+				Console.WriteLine("Enter The AssetName:");
+				userinput = Console.ReadLine();
 			}
 
 			else
 			{
-				Console.WriteLine("Type latest for getting latest series");
+				Console.WriteLine("Machine types which are using the latest series of all the assets:");
 			}
-			userinput = Console.ReadLine();
+			
 
 
 			string filePath = @"/Users/abhinnmishra/Downloads/CsharpHandson/ProjectKlingelnberg/Assignment/Data.csv";
@@ -77,7 +79,7 @@ namespace Machines
 
 			else
 			{
-
+				
 				List<Structure> result = new List<Structure>();
 				result.Add(machines[0]);
 				for (int i=1;i<machines.Count;i++)
