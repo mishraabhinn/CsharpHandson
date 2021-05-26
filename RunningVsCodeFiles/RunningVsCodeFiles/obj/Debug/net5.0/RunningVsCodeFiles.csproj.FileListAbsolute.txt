@@ -1,0 +1,15 @@
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/bin/Debug/net5.0/RunningVsCodeFiles.deps.json
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/bin/Debug/net5.0/RunningVsCodeFiles.runtimeconfig.json
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/bin/Debug/net5.0/RunningVsCodeFiles.runtimeconfig.dev.json
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/bin/Debug/net5.0/RunningVsCodeFiles.dll
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/bin/Debug/net5.0/ref/RunningVsCodeFiles.dll
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/bin/Debug/net5.0/RunningVsCodeFiles.pdb
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/obj/Debug/net5.0/RunningVsCodeFiles.csprojAssemblyReference.cache
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/obj/Debug/net5.0/RunningVsCodeFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/obj/Debug/net5.0/RunningVsCodeFiles.AssemblyInfoInputs.cache
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/obj/Debug/net5.0/RunningVsCodeFiles.AssemblyInfo.cs
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/obj/Debug/net5.0/RunningVsCodeFiles.csproj.CoreCompileInputs.cache
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/obj/Debug/net5.0/RunningVsCodeFiles.dll
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/obj/Debug/net5.0/ref/RunningVsCodeFiles.dll
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/obj/Debug/net5.0/RunningVsCodeFiles.pdb
+/Users/abhinnmishra/Downloads/CsharpHandson/RunningVsCodeFiles/RunningVsCodeFiles/obj/Debug/net5.0/RunningVsCodeFiles.genruntimeconfig.cache
