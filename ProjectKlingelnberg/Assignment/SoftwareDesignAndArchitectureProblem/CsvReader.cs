@@ -7,7 +7,7 @@ using System.IO;
 
 namespace Machines
 {
-	class CsvReader
+	public class CsvReader
 	{
 		private string _csvFilePath;
 		private string UserInput;

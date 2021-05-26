@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Machines
 {
-	class Structure
+	public class Structure
 	{
 		public string MachineName { get; }
 		public string Assetname { get; }

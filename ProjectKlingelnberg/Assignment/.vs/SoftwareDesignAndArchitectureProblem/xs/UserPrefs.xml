@@ -1,13 +1,25 @@
 ﻿<Properties StartupConfiguration="{F7B670AF-CFA4-4496-BE38-DE181A9EA5E9}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoftwareDesignAndArchitectureProblem/Structure.cs">
+    <Files>
+      <File FileName="SoftwareDesignAndArchitectureProblem.Tests/UnitTest1.cs" Line="17" Column="67" />
+      <File FileName="SoftwareDesignAndArchitectureProblem/Program.cs" Line="19" Column="1" />
+      <File FileName="SoftwareDesignAndArchitectureProblem/CsvReader.cs" Line="15" Column="57" />
+      <File FileName="SoftwareDesignAndArchitectureProblem/Structure.cs" Line="11" Column="6" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SoftwareDesignAndArchitectureProblem" expanded="True">
             <Node name="SoftwareDesignAndArchitectureProblem" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Structure.cs" selected="True" />
             </Node>
+            <Node name="SoftwareDesignAndArchitectureProblem.Tests" expanded="True" />
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SoftwareDesignAndArchitectureProblem" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
