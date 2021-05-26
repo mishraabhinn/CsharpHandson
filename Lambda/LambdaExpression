@@ -1,0 +1,20 @@
+using System;
+
+namespace CSharpHandsOnPractice.Lambda
+{
+    public delegate void DelegateSayHello(string name);           
+
+    class LambdaExpression
+    {
+        static void Main(string[] args)
+        {
+           
+            DelegateSayHello delegateObj = (name) =>
+            {
+                Console.WriteLine("Hello: " + name);
+            };
+            delegateObj.Invoke("ABHINN");
+
+        }
+    }
+}
