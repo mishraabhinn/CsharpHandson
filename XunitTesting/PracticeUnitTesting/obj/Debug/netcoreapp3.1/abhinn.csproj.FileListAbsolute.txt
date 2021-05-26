@@ -1,0 +1,12 @@
+/Users/abhinnmishra/Projects/abhinn/abhinn/bin/Debug/netcoreapp3.1/abhinn.deps.json
+/Users/abhinnmishra/Projects/abhinn/abhinn/bin/Debug/netcoreapp3.1/abhinn.runtimeconfig.json
+/Users/abhinnmishra/Projects/abhinn/abhinn/bin/Debug/netcoreapp3.1/abhinn.runtimeconfig.dev.json
+/Users/abhinnmishra/Projects/abhinn/abhinn/bin/Debug/netcoreapp3.1/abhinn.dll
+/Users/abhinnmishra/Projects/abhinn/abhinn/bin/Debug/netcoreapp3.1/abhinn.pdb
+/Users/abhinnmishra/Projects/abhinn/abhinn/obj/Debug/netcoreapp3.1/abhinn.csprojAssemblyReference.cache
+/Users/abhinnmishra/Projects/abhinn/abhinn/obj/Debug/netcoreapp3.1/abhinn.AssemblyInfoInputs.cache
+/Users/abhinnmishra/Projects/abhinn/abhinn/obj/Debug/netcoreapp3.1/abhinn.AssemblyInfo.cs
+/Users/abhinnmishra/Projects/abhinn/abhinn/obj/Debug/netcoreapp3.1/abhinn.csproj.CoreCompileInputs.cache
+/Users/abhinnmishra/Projects/abhinn/abhinn/obj/Debug/netcoreapp3.1/abhinn.dll
+/Users/abhinnmishra/Projects/abhinn/abhinn/obj/Debug/netcoreapp3.1/abhinn.pdb
+/Users/abhinnmishra/Projects/abhinn/abhinn/obj/Debug/netcoreapp3.1/abhinn.genruntimeconfig.cache

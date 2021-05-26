@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9366C5FE-101A-4633-B094-510A47369330}|Default">
+  <MonoDevelop.Ide.ItemProperties.abhinn PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.xUnittest FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xUnittest/UnitTest1.cs">
+    <Files>
+      <File FileName="abhinn/Program.cs" Line="18" Column="44" />
+      <File FileName="xUnittest/UnitTest1.cs" Line="13" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="abhinn" expanded="True">
+            <Node name="abhinn" expanded="True" />
+            <Node name="xUnittest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
